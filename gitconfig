@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jacek.bastin@gmail.com
+	name = Jacek Bastin
